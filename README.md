@@ -42,6 +42,6 @@ The system outputs interpolated values for each data point.
 
 Motor Control:
 
-The system automatically moves the motor by 60 degrees each loop .
+The system automatically moves the motor by 60 degrees each loop .😊
 
 
